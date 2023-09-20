@@ -2,9 +2,81 @@
     {
         "id": 1,
         "titulo": "Homem de Ferro 2",
-        "resumo":"Filme do Homem de Ferro",
-        "atores":"Robert Downey",
-        "capa":"https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
-        "duracao":140
-    }   
+        "resumo": "Filme do Homem de Ferro",
+        "atores": "Robert Downey",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
+        "duracao": 140
+    },
+    {
+        "id": 2,
+        "titulo": "Vingadores: Ultimato",
+        "resumo": "Os heróis se unem para derrotar Thanos",
+        "atores": "Robert Downey Jr., Chris Evans, Scarlett Johansson",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/0/0d/Avengers_Endgame_poster.jpg",
+        "duracao": 181
+    },
+    {
+        "id": 3,
+        "titulo": "Pantera Negra",
+        "resumo": "T'Challa luta para proteger Wakanda",
+        "atores": "Chadwick Boseman, Lupita Nyong'o",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/4/4c/Black_Panther.jpg",
+        "duracao": 134
+    },
+    {
+        "id": 4,
+        "titulo": "Capitão Marvel",
+        "resumo": "A história de Carol Danvers, a Capitã Marvel",
+        "atores": "Brie Larson, Samuel L. Jackson",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/3/3d/Captain_Marvel_poster.jpg",
+        "duracao": 123
+    },
+    {
+        "id": 5,
+        "titulo": "Guardiões da Galáxia",
+        "resumo": "Um grupo de desajustados salva a galáxia",
+        "atores": "Chris Pratt, Zoe Saldana",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/8/8f/Guardians_of_the_Galaxy_poster.jpg",
+        "duracao": 121
+    },
+    {
+        "id": 6,
+        "titulo": "Thor: Ragnarok",
+        "resumo": "Thor enfrenta seu poderoso inimigo, Hela",
+        "atores": "Chris Hemsworth, Cate Blanchett",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/7/7d/Thor_Ragnarok_poster.jpg",
+        "duracao": 130
+    },
+    {
+        "id": 7,
+        "titulo": "Homem-Aranha: Longe de Casa",
+        "resumo": "Peter Parker enfrenta novos desafios em uma viagem pela Europa",
+        "atores": "Tom Holland, Zendaya",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/b/bd/Spider-Man_Far_From_Home_poster.jpg",
+        "duracao": 129
+    },
+    {
+        "id": 8,
+        "titulo": "Doutor Estranho",
+        "resumo": "Stephen Strange descobre o mundo da magia",
+        "atores": "Benedict Cumberbatch, Rachel McAdams",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/c/c7/Doctor_Strange_poster.jpg",
+        "duracao": 115
+    },
+    {
+        "id": 9,
+        "titulo": "Homem-Formiga",
+        "resumo": "Scott Lang assume o manto do Homem-Formiga",
+        "atores": "Paul Rudd, Evangeline Lilly",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/e/e8/Ant-Man_poster.jpg",
+        "duracao": 117
+    },
+    {
+        "id": 10,
+        "titulo": "Capitão América: O Primeiro Vingador",
+        "resumo": "A origem do Capitão América durante a Segunda Guerra Mundial",
+        "atores": "Chris Evans, Hayley Atwell",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/3/37/Captain_America_The_First_Avenger_poster.jpg",
+        "duracao": 124
+    }
 ]
